@@ -14,5 +14,5 @@ var test = ["Hello World", "Test"];
 /*String[] nomes;* assim seria a declarção de
 array no java*/
 var isEnabled = true;
-var test2 = ['Hello', 'Test'];
-//# sourceMappingURL=interference.js.map 
+/*let test2: [string] = ['Hello', 'Test'];*/ 
+//# sourceMappingURL=interference.js.map
